@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/uiwjs/react-md-editor">
+    <img src="https://raw.githubusercontent.com/uiwjs/node_blog/public/img/home_page_image.png">
+  </a>
+</p>
 # Simple Blog 
 Node, MongoDB, Express
 
