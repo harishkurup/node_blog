@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/uiwjs/react-md-editor">
-    <img src="https://raw.githubusercontent.com/harishkurup/node_blog/public/img/home_page_image.png">
+  <a href="https://github.com/harishkurup/node_blog">
+    <img src="https://user-images.githubusercontent.com/156998/66819877-51824680-ef5d-11e9-8935-d26ecf027a0e.png" width="90%"></img> 
   </a>
 </p>
 # Simple Blog 
